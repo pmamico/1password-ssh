@@ -1,5 +1,5 @@
 # 1password-ssh
-SSH login with fingerprint using 1password.
+SSH login with fingerprint using 1password.  
 The original intention was to allow fingerprint login from the terminal.
 
 ## how it works
